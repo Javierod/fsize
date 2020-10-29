@@ -1,0 +1,1 @@
+g++ -o ../../executables/MacOS/fsize ../../code/fsize.cpp

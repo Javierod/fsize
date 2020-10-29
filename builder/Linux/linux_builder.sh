@@ -1,0 +1,1 @@
+g++ -o ../../executables/Linux/fsize ../../code/fsize.cpp

@@ -4,6 +4,6 @@
 ### Description: Shell desktop application to return a specific file size.
 ### Version: 1.0.1
 ### Support Platforms:
-  - [MacOS](https://github.com/Javierod/fsize/blob/dev/executables/MacOS/fsize).
-  - Linux.
+  - [MacOS.](https://github.com/Javierod/fsize/blob/dev/executables/MacOS/fsize)
+  - [Linux.](https://github.com/Javierod/fsize/blob/dev/executables/Linux/fsize)
   - Windows.

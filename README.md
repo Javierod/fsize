@@ -6,4 +6,4 @@
 ### Support Platforms:
   - [MacOS.](https://github.com/Javierod/fsize/blob/dev/executables/MacOS/fsize)
   - [Linux.](https://github.com/Javierod/fsize/blob/dev/executables/Linux/fsize)
-  - Windows.
+  - [Windows.](https://github.com/Javierod/fsize/blob/dev/executables/Windows/fsize.exe)
